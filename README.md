@@ -20,8 +20,8 @@ Apply data visualization techniques to identify the patterns of the data.
 
 
 
-NAME=Deepa.S
-REGISTER NUMBER=212220220008
+NAME=Divya Bharathi K
+REGISTER NUMBER=212220220011
 
 
 
